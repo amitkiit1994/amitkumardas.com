@@ -7,15 +7,15 @@ const timelineData = [
   {
     year: '2024–Present',
     title: 'Co-founder @ Ratl.ai',
-    description: 'In the dynamic world of software development, ensuring reliability and efficiency is paramount. RATL.ai revolutionizes your development process by integrating intelligent automation, comprehensive testing, and continuous monitoring. Our platform ensures that your software meets and exceeds industry standards for performance, security, and user satisfaction.',
+    description: 'Building an AI-native autonomous agentic test automation platform combining intelligent agents, continuous monitoring, and adaptive reliability engineering.',
     company: 'Ratl.ai',
     location: 'Mumbai, India',
     type: 'Founder'
   },
   {
-    year: '2022-2024',
+    year: '2022–2024',
     title: 'Engineering Lead @ Fynd (Reliance Retail)',
-    description: 'AI lead the engineering productivity and reliability for e-commerce sales channels, including Jiomart, Tira, Jiomart Partners, Swadesh, Azorte, Gap, and Ajio. I architected and built Ratl, a Generative AI-powered test lab solution using technologies like Redis Search, Text Da Vinci Model, and OpenAI Engine. Rattle automates functional and load testing with tools like Rest Assured, Spring Boot, TestNG, Playwright, and Appium, integrated with platforms such as Headspin, BrowserStack, LambdaTest, and Applitools. The platform supports containerized test orchestration, visualizes reports through Slack, Report Portal, Grafana, and Geckoboard, and includes load testing powered by Gatling. Additionally, I developed the Jio Commerce Device Lab for remote testing on real devices and created Ratl CoPilot, a GPT-powered productivity tool that assists in test case generation, automation script creation, pipeline building, and enhancing release decision-making.',
+    description: 'Led engineering productivity and built the GPT-powered Ratl Test Lab to automate functional, load, and device testing across Reliance e-commerce brands.',
     company: 'Fynd',
     location: 'Mumbai, India',
     type: 'Leadership'
@@ -23,7 +23,7 @@ const timelineData = [
   {
     year: '2021–2022',
     title: 'Software Engineer @ Microsoft',
-    description: 'As an integral part of a team developing a cutting-edge direct-to-consumer platform, I am dedicated to delivering innovative fan engagement experiences and enhanced streaming capabilities, leveraging the robust power of Microsoft Azure and its AI capabilities. My core responsibility is to ensure the highest quality of the application by automating and enhancing frameworks for seamless Azure PAAS integrations, including Cosmos DB, Event Hubs, Event Grid, Service Bus, Azure Data Explorer (ADX), Function Apps, and Azure Web Apps. I am architecting an advanced in-house test automation framework that not only supports the programmatic execution of these integrations but also ensures efficient, reliable, and scalable testing processes. This framework is designed to facilitate comprehensive test coverage, optimize performance, and enhance the overall reliability of our platform, thereby ensuring a superior user experience.',
+    description: 'Designed a robust automation framework to test Azure PAAS services and enhance streaming and fan engagement platforms.',
     company: 'Microsoft',
     location: 'Bangalore, India',
     type: 'Engineering'
@@ -31,7 +31,7 @@ const timelineData = [
   {
     year: '2021',
     title: 'Software Development Engineer @ Jio',
-    description: 'As a crucial member of the initial Quality Assurance team for the JioMart e-commerce application, I played a key role in developing bots using Spring Boot and HTTP client to automate APIs for end-to-end B2C order processing, aligning with the Software Testing as a Service (STAAS) model. I integrated this framework with MySQL for storing test data, InfluxDB for custom metrics, and Grafana for visualizing incoming order metrics. Additionally, I built an automation framework with Gatling and Maven to simulate load on high-traffic endpoints, ensuring robust load testing. I containerized the project using Docker, enabling seamless deployment and testing across all servers. Furthermore, I created and set up service virtualization using the Specmatic tool to mock external API responses, and containerized all test automation projects for consistent deployment across various environments.',
+    description: 'Engineered automation bots and load test frameworks for JioMart’s B2C order flow, enabling containerized testing and real-time performance metrics.',
     company: 'Jio',
     location: 'Bangalore, India',
     type: 'Engineering'
@@ -39,7 +39,7 @@ const timelineData = [
   {
     year: '2019–2021',
     title: 'Senior Software Engineer @ SAS',
-    description: 'I was responsible for testing various aspects of statistical calculations, data seeding, and the Grid and Visual Analytics interface from a functional perspective. This included data validations through database testing and backend validation for API requests and responses. I scrutinized logs for every microservice and pod in a container-orchestrated system and ensured the maintenance and RPM updates of microservices to maintain a CI/CD approach using Jenkins or the Linux terminal. Additionally, I created and administered Kubernetes clusters, troubleshooting pods, deployments, services, persistent volumes, and more. I wrote automation codes for both API (Groovy) and UI (Selenium) to support the CI/CD DevOps model, maintained clean BVT and sanity API automation reports, and regularly updated code against test case failures. I was solely responsible for the classic product version release, ensuring customer-reported defect fixes and thorough regression testing. Managing the UI automation team, I handled project planning through JIRA, created stories and test cases, validated code from a functional perspective, and interacted regularly with product management and stakeholders. Furthermore, I conducted performance testing, prepared comparison insight reports, and documented test cases and reports to ensure a comprehensive and agile testing approach.',
+    description: 'Owned automation, testing, and CI/CD integration for statistical grid apps, microservices, and Kubernetes clusters across product releases.',
     company: 'SAS Institute',
     location: 'Pune, India',
     type: 'Engineering'
@@ -47,7 +47,7 @@ const timelineData = [
   {
     year: '2017–2019',
     title: 'Software Engineer @ Infosys',
-    description: 'Starting my career with Infosys in the Mysuru Area, India, I received professional training in various fundamental technologies including Python, RDBMS (Oracle and MySQL), Data Structures, Core Java, JavaScript, HTML5, CSS, Spring Boot, Hibernate, and Servlets. Additionally, I gained expertise in automation testing tools such as Selenium, UFT, and ALM-QC. In my role as a Software Engineer from January 2017 to April 2017, I reviewed business requirements, prepared test plans and scripts, and identified and reported defects through smoke testing, continuous regression testing, and performance testing. I was responsible for migrating projects into Application Lifecycle Management (ALM) and developed a data-driven automation framework using the Page Object Design pattern. I identified automation scenarios from test cases and developed web automation scripts using Selenium WebDriver and TestNG. Furthermore, I integrated TestNG with Maven to create a robust framework, implementing the Listeners interface, Page Object pattern, Log4j, and Excel Data-Driven testing.',
+    description: 'Developed Selenium-based test frameworks and migrated QA projects to ALM using Java, Maven, and TestNG for enterprise clients.',
     company: 'Infosys',
     location: 'Pune, India',
     type: 'Engineering'
